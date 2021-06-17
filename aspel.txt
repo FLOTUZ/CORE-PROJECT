@@ -1,0 +1,4 @@
+LAPTOP-HPN8O607:C:\Program Files x86\Common Files\Aspel\Sistemas aspel\SAE8.00\Ejemplos\Ejemplos.fdb
+
+
+C:\Program Files (x86)\Common Files\Aspel\Sistemas Aspel\SAE8.00\Ejemplos
